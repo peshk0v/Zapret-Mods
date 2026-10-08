@@ -17,15 +17,14 @@
 
 | Модификация | Описание | Подробнее | Скачать |
 | :--- | :--- | :---: | :---: |
-| ⛏️ **Minecraft Fix** | Обход блокировок Minecraft-сервисов и серверов | [README](Minecraft-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Minecraft-Fix) |
-| ⚡ **Shizapret-Mod** | Расширенный обход блокировок РКН | [README](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
-| 🎮 **GAMING Fix** | Обход блокировок игровых сервисов | [README](Gaming-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Gaming-Fix) |
-| 🎨 **Canva** | Обход блокировки Canva и Affinity | [README](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
-| 🎧 **Streamings Fix** | Обход блокировки Spotify и SoundCloud `#deprimo` | [README](Streamings-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Streamings-Fix) |
-| 🐧 **Linux Fix** | Обход блокировок, связанных с Linux-сервисами | [README](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
-| 🎲 **Dungeons-And-Dragons** | Обход блокировок ресурсов D&D | [README](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
-| 🩻 **Dota 2** | Обход блокировки Dota 2 в России | [README](Dota-2/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dota-2) |
-| 🔫 **Fortnite** | Обход блокировки Fortnite и Epic Games Store | [README](Fortnite/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Fortnite) |
+| ⛏️ **Minecraft Fix** | Обход замедления Minecraft-сервисов и серверов | [README](Minecraft-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Minecraft-Fix) |
+| 🎮 **GAMING Fix** | Обход замедления игровых сервисов | [README](Gaming-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Gaming-Fix) |
+| 🎨 **Canva** | Обход замедления Canva и Affinity | [README](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
+| 🎧 **Streamings Fix** | Обход замедления Spotify и SoundCloud `#deprimo` | [README](Streamings-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Streamings-Fix) |
+| 🐧 **Linux Fix** | Обход замедлений, связанных с Linux-сервисами | [README](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
+| 🎲 **Dungeons-And-Dragons** | Обход замедления ресурсов D&D | [README](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
+| 🩻 **Dota 2** | Обход замедления Dota 2 в России | [README](Dota-2/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dota-2) |
+| 🔫 **Fortnite** | Обход замедления Fortnite и Epic Games Store | [README](Fortnite/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Fortnite) |
 
 ---
 
